@@ -6,7 +6,7 @@ using System.Linq;
 using System.Reflection;
 
 /*
- *  AppWithPlugin for NetFX ( Don't use Dotnet 3.x or 5.x ) 
+ *  AppWithPlugin for NetFX ( Don't use Dotnet 3.x or Net 5.x ) 
  */
 namespace AppWithPlugin
 {
