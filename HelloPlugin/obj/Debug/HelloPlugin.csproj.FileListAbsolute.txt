@@ -1,0 +1,6 @@
+/home/jens/Projects/AppWithPluginForMono/AppWithPlugin/bin/Debug/Plugins/HelloPlugin.dll
+/home/jens/Projects/AppWithPluginForMono/AppWithPlugin/bin/Debug/Plugins/HelloPlugin.pdb
+/home/jens/Projects/AppWithPluginForMono/HelloPlugin/obj/Debug/HelloPlugin.csprojAssemblyReference.cache
+/home/jens/Projects/AppWithPluginForMono/HelloPlugin/obj/Debug/HelloPlugin.csproj.CoreCompileInputs.cache
+/home/jens/Projects/AppWithPluginForMono/HelloPlugin/obj/Debug/HelloPlugin.dll
+/home/jens/Projects/AppWithPluginForMono/HelloPlugin/obj/Debug/HelloPlugin.pdb

@@ -1,0 +1,6 @@
+/home/jens/Projects/AppWithPluginForMono/AppWithPlugin/bin/Debug/Plugins/OtherPlugin.dll
+/home/jens/Projects/AppWithPluginForMono/AppWithPlugin/bin/Debug/Plugins/OtherPlugin.pdb
+/home/jens/Projects/AppWithPluginForMono/OtherPlugin/obj/Debug/OtherPlugin.csprojAssemblyReference.cache
+/home/jens/Projects/AppWithPluginForMono/OtherPlugin/obj/Debug/OtherPlugin.csproj.CoreCompileInputs.cache
+/home/jens/Projects/AppWithPluginForMono/OtherPlugin/obj/Debug/OtherPlugin.dll
+/home/jens/Projects/AppWithPluginForMono/OtherPlugin/obj/Debug/OtherPlugin.pdb

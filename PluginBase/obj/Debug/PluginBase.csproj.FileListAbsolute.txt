@@ -1,0 +1,7 @@
+/home/jens/Projects/AppWithPluginForMono/AppWithPlugin/bin/Debug/PluginBase.dll
+/home/jens/Projects/AppWithPluginForMono/AppWithPlugin/bin/Debug/PluginBase.pdb
+/home/jens/Projects/AppWithPluginForMono/PluginBase/bin/Debug/PluginBase.dll
+/home/jens/Projects/AppWithPluginForMono/PluginBase/bin/Debug/PluginBase.pdb
+/home/jens/Projects/AppWithPluginForMono/PluginBase/obj/Debug/PluginBase.csproj.CoreCompileInputs.cache
+/home/jens/Projects/AppWithPluginForMono/PluginBase/obj/Debug/PluginBase.dll
+/home/jens/Projects/AppWithPluginForMono/PluginBase/obj/Debug/PluginBase.pdb
